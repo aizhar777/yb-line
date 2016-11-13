@@ -167,6 +167,7 @@ return [
          * Package Service Providers...
          */
         Barryvdh\Debugbar\ServiceProvider::class,
+        Sentinel\SentinelServiceProvider::class, //https://github.com/rydurham/Sentinel
 
         //
 
